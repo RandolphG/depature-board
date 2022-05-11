@@ -13,7 +13,7 @@
 - run with yarn start or npm
 
 ```bash
-$ git clone https://github.com/RandolphG/audio-visualizer.git
+$ git clone  https://github.com/RandolphG/depature-board.git
 $ cd project folder
 $ yarn or npm i
 $ yarn start or npm start
